@@ -4,4 +4,4 @@ a simple login and signup page using next js and firebase.
 
 First, run the development server:
 
-``` all credit to [ashiskunwar](https://ashiskunwar.com.np) ```
+ all credit to [ashiskunwar](https://ashiskunwar.com.np) 
